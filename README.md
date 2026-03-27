@@ -5,7 +5,7 @@ The system combines Deep Learning (TensorFlow/Keras) with OpenCV face detection 
 
 The system combines Deep Learning (TensorFlow/Keras) with OpenCV face detection to identify faces in images and classify the detected facial expressions.
 
-The model predicts the following 7 emotion classes:The model predicts the following 7 emotion classes:
+The model predicts the following 7 emotion classes:
 - Angry
 - Disgust
 - Fear
